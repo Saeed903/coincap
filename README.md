@@ -5,7 +5,7 @@ Library for interaction with [CoinCap API 2.0](https://docs.coincap.io/). Suppor
 ## How to install
 
 ```bash
-go get -u github.com/karalef/coincap
+go get -u github.com/saeed903/coincap
 ```
 
 ## Testing
