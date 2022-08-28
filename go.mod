@@ -1,4 +1,4 @@
-module github.com/karalef/coincap
+module github.com/saeed903/coincap
 
 go 1.18
 
